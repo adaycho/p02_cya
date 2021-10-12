@@ -1,7 +1,7 @@
 # p02_cya
 
 Universidad de La Laguna
-Escuela Superior de Ingenier ́ıa y Tecnolog ́ıa
+Escuela Superior de Ingeniería y Tecnolog ía
 Grado en Ingeniería Informática
 Asignatura: Computabilidad y Algoritmia
 Curso: 2º
