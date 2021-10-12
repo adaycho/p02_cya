@@ -17,8 +17,6 @@
 // y la función de la primera operación
 // 10/10/2021 - Creación del resto de funciones de operación
 
-#pragma once
-
 #include <fstream>
 #include "string_a.h"
 
